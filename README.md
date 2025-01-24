@@ -1,3 +1,4 @@
+![logo](https://github.com/AnishKr-24/Anish_Kumar/blob/main/Picture.png)
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
 <h3 align="center">A passionate Jr. Software Engineer, from India</h3>
 
